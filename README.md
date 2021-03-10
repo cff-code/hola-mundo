@@ -1,2 +1,3 @@
 # hola-mundo
-first project
+hi 
+New in this world of programing 
